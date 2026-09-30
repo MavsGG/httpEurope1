@@ -1,0 +1,31 @@
+{
+  "startTroops": 8,
+  "startMoney": 200,
+  "countries": {
+    "B": { "name": "United Kingdom", "color": [214, 106, 64] },
+    "F": { "name": "France",         "color": [60, 110, 220] },
+    "G": { "name": "Germany",        "color": [120, 120, 120] },
+    "I": { "name": "Italy",          "color": [80, 170, 90] },
+    "S": { "name": "Spain",          "color": [230, 190, 50] },
+    "P": { "name": "Poland",         "color": [230, 140, 170] },
+    "R": { "name": "Soviet Union",   "color": [160, 30, 30] },
+    "W": { "name": "Sweden",         "color": [60, 170, 190] },
+    "T": { "name": "Turkey",         "color": [150, 110, 60] },
+    "Y": { "name": "Balkans",        "color": [140, 90, 180] }
+  },
+  "map": [
+    "......WWWWW.....RRRRRRRR",
+    "..BB..WWWWW....RRRRRRRRR",
+    "..BBB.WWW......RRRRRRRRR",
+    ".BBBB....GGGPPPRRRRRRRRR",
+    "..BB..FFFGGGGPPPRRRRRRRR",
+    "....FFFFFGGGGPPPRRRRRRRR",
+    "...FFFFFFGGGPPPPRRRRRRRR",
+    "..SSFFFFFGGG.YYYRRRRRRRR",
+    "..SSSFFFF..IIYYYYRRRRRRR",
+    "..SSSSS....IIIYYYYYYTTTT",
+    "..SSSSS....II..YYYYYTTTT",
+    "...SSS.....II.....TTTTTT",
+    "...........I......TTTTTT"
+  ]
+}
